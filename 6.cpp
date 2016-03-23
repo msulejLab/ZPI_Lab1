@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+#include <cstdlib>
 int main() {
     return 0;
-}
+} // Ending curly bracket
